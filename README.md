@@ -1,5 +1,5 @@
 # Slope Game: The Ultimate Test of Reflexes and Speed
-In the vast sea of online games, few manage to combine simplicity with extreme challenge. [Slope Ball](https://slope-ball.io/) is one of those rare titles that achieves just that — offering a fast-paced, heart-pounding experience that keeps players coming back for “just one more try.”
+In the vast sea of online games, few manage to combine simplicity with extreme challenge. [Slope Game](https://slope-ball.io/) is one of those rare titles that achieves just that — offering a fast-paced, heart-pounding experience that keeps players coming back for “just one more try.”
 
 With minimalistic design and intuitive controls, it’s a game you can jump into in seconds... but might spend hours mastering.
 
